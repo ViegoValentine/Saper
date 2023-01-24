@@ -1,0 +1,7 @@
+﻿  Gra.cpp
+  Koniec.cpp
+  Trzon.cpp
+  Źródło.cpp
+C:\Users\stach\OneDrive\Pulpit\roboczy\cpp\Saper (chyba)\Saper (chyba)\Źródło.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Saper (chyba).vcxproj -> C:\Users\stach\OneDrive\Pulpit\roboczy\cpp\Saper (chyba)\x64\Debug\Saper (chyba).exe
